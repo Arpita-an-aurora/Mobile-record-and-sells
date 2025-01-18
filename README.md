@@ -1,1 +1,1 @@
-# Mobile-record-and-sells
+Tried to include all basics I have learned about python and few of its libraries. It's a program that deals with the managing data of mobile phone sells and save the properties of phones for the customer to study and decide their purchase while also providing the owner the chance to modify the data and look on the details about its sells relating with the properties and qualities.
